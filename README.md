@@ -1,0 +1,1 @@
+# discord-fake-avatar-decorations
